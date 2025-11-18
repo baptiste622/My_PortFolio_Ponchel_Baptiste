@@ -1,6 +1,8 @@
-Hello !
+Thank you for visiting my portfolio.
+This repository showcases the projects and models I created while applying for a 6-month internship in mechanical engineering.
 
-Here you can find the portfolio I created in order to apply for a 6-month internship in mechanical engineering. 
+If you're a recruiter:
+Please feel free to explore the portfolio file to learn more about my engineering work, simulation skills, and technical experience.
 
-If you are a recruiter, please feel free to read the portfolio file in order to know more about my works.
-If you are a simple reader finding this reposetory and you like how it is presented. You can ask me to model file I created.
+If you're a reader who discovered this repository and you appreciate the way it is presented:
+You're welcome to ask me about the models I created or request the Word model.
