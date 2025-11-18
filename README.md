@@ -1,5 +1,6 @@
 Thank you for visiting my portfolio.
 This repository showcases the projects and models I created while applying for a 6-month internship in mechanical engineering.
+I found out that the best way to share this file is to upload it on GitHub.
 
 If you're a recruiter:
 Please feel free to explore the portfolio file to learn more about my engineering work, simulation skills, and technical experience.
